@@ -46,7 +46,8 @@ Animora is a desktop 3D creation studio built on a fork of [Blender](https://www
 - **Built-in verification.** The AI checks its own work against your request before handing it back, enforced in code and not only in prompts.
 - **Privacy by design.** API keys and secrets stay server-side and never ship inside the desktop app.
 
-Current version: [Add version, e.g. v1.4.x] · [Try Animora](https://www.animora.tech)
+Current version: v1.4.3 · [Try Animora](https://www.animora.tech)
+
 Repository: [github.com/EAT-Technologies/Animora](https://github.com/EAT-Technologies/Animora)
 
 ### Aerial systems & drones
@@ -55,7 +56,7 @@ Status: **Exploring**
 
 We are researching drone technology and the software that makes it more capable and easier to use. This work is at the concept and prototype stage. We will publish details here as projects move from idea to development. All aerial and hardware work will follow the applicable aviation and safety regulations in each country where we operate.
 
-[Add one line on the specific direction when you are ready to share it.]
+
 
 ---
 
@@ -69,13 +70,13 @@ We are researching drone technology and the software that makes it more capable 
 **Amos Titus**: Visual artist and builder. Leads EAT Technologies and designs and builds the Animora platform.
 
 ## Contact
-  **Instagram**: [](https://www.instagram.com/amos.e.a.t?srtk=cTBxenI1aXlhNGVz)
-  **Instagram**: [](https://www.tiktok.com/@mr.eat032?_r=1&_t=ZS-9BHqIXlLmq8)
+  **Instagram**: [Instagram](https://www.instagram.com/amos.e.a.t?srtk=cTBxenI1aXlhNGVz)
+  **Tiktok**: [Tiktok](https://www.tiktok.com/@mr.eat032?_r=1&_t=ZS-9BHqIXlLmq8)
 **Mark Allan**: Leads Animora's product vision and operations across EAT Technologies. 
 
 ## Contact
-  **Instagram**: [](https://www.instagram.com/amos.e.a.t?srtk=cTBxenI1aXlhNGVz)
-  **Instagram**: [](https://www.tiktok.com/@mr.eat032?_r=1&_t=ZS-9BHqIXlLmq8)
+  **Instagram**: [Instagram](https://www.instagram.com/mark_m.allan?obrf=M2h0amdiYmJybHRs)
+  **TikTok**: [Tiktok](https://www.tiktok.com/@mark_m.allan?_r=1&_t=ZS-9BHqn5Jjb4U)
 
 ---
 
@@ -133,8 +134,8 @@ Animora is an independent project and is not affiliated with, or endorsed by, th
 - **Try Animora:** [REPLACE-WITH-DOWNLOAD-OR-WAITLIST-LINK]
 - **Report a bug or request a feature:** open an issue in the [Animora repository](https://github.com/EAT-Technologies/Animora/issues)
 - **Contribute:** read `CONTRIBUTING.md` in the Animora repository
-- **Partnerships, press, and investors:** [REPLACE-WITH-EMAIL]
-- **Join the team:** [REPLACE-WITH-CAREERS-OR-EMAIL]
+- **Partnerships, press, and investors:** [hello@animora.tech]
+- **Join the team:** [hello@animora.tech]
 
 ---
 
@@ -142,8 +143,8 @@ Animora is an independent project and is not affiliated with, or endorsed by, th
 
 **EAT Technologies**
 Nairobi, Kenya
-Email: [REPLACE-WITH-EMAIL]
-Website: [REPLACE-WITH-SITE]
+Email: [hello@animora.tech]
+Website: [www.animora.tech]
 
 ---
 
