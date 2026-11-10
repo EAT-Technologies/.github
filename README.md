@@ -76,11 +76,14 @@ We are researching drone technology and the software that makes it more capable 
 
 ## Contact
   **Instagram**: [Instagram](https://www.instagram.com/amos.e.a.t?srtk=cTBxenI1aXlhNGVz)
+  
   **Tiktok**: [Tiktok](https://www.tiktok.com/@mr.eat032?_r=1&_t=ZS-9BHqIXlLmq8)
+  
 **Mark Allan**: Leads Animora's product vision and operations across EAT Technologies. 
 
 ## Contact
   **Instagram**: [Instagram](https://www.instagram.com/mark_m.allan?obrf=M2h0amdiYmJybHRs)
+  
   **TikTok**: [Tiktok](https://www.tiktok.com/@mark_m.allan?_r=1&_t=ZS-9BHqn5Jjb4U)
 
 ---
@@ -91,8 +94,8 @@ We are researching drone technology and the software that makes it more capable 
 |---|---|---|
 | Amos Titus | Co-founder & CEO, EAT · CTO, Animora | Company direction, architecture, engineering |
 | Mark Allan | Co-founder & COO, EAT · CEO, Animora | Product vision, operations, partnerships |
-| [Name] | [Title] | [Focus] |
-| [Name] | [Title] | [Focus] |
+| Irene Linah | Advisor 
+
 
 Full team details live in [`TEAM.md`](https://github.com/EAT-Technologies/Animora/blob/main/TEAM.md) in the Animora repository.
 
@@ -136,11 +139,11 @@ Animora is an independent project and is not affiliated with, or endorsed by, th
 
 ## Get involved
 
-- **Try Animora:** [REPLACE-WITH-DOWNLOAD-OR-WAITLIST-LINK]
+- **Try Animora:** www.animora.tech
 - **Report a bug or request a feature:** open an issue in the [Animora repository](https://github.com/EAT-Technologies/Animora/issues)
 - **Contribute:** read `CONTRIBUTING.md` in the Animora repository
-- **Partnerships, press, and investors:** [hello@animora.tech]
-- **Join the team:** [hello@animora.tech]
+- **Partnerships, press, and investors:** hello@animora.tech
+- **Join the team:** hello@animora.tech
 
 ---
 
@@ -148,8 +151,8 @@ Animora is an independent project and is not affiliated with, or endorsed by, th
 
 **EAT Technologies**
 Nairobi, Kenya
-Email: [hello@animora.tech]
-Website: [www.animora.tech]
+Email: hello@animora.tech
+Website: www.animora.tech
 
 ---
 
