@@ -3,6 +3,11 @@
 
 # EAT Technologies
 
+<p align="center">
+  <img src="logo.png" alt="Organization Logo" width="300">
+</p>
+
+
 **Building technology that puts powerful tools in more hands, from Nairobi to the world.**
 
 [Animora](https://github.com/EAT-Technologies/Animora) · [Website](https://REPLACE-WITH-YOUR-SITE) · [LinkedIn](https://REPLACE-WITH-LINKEDIN) · [YouTube](https://REPLACE-WITH-YOUTUBE)
